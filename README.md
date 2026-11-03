@@ -51,4 +51,3 @@ Os exemplos usam o cliente Cliente Exemplo, Baozi de porco a R$ 8,50 e pedido de
 ```
 
 O teste automatizado usa banco H2 em memória separado dos dados locais.
-
